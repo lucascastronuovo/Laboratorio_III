@@ -23,3 +23,7 @@ Para explorar y ejecutar los contenidos de este repositorio, se recomienda:
 - Conocimiento básico en programación.
 - Familiaridad con sistemas operativos y conceptos de Unix.
 - Conocimiento de programación en lenguajes imperativos, orientados a objetos, funcionales y lógicos.
+
+## Notas Importantes
+
+Algunos de los ejercicios o implementaciones pueden no funcionar perfectamente debido al proceso de aprendizaje en curso. Se recomienda tener en cuenta que algunos conceptos y técnicas están aún siendo asimilados y pueden requerir ajustes adicionales.
