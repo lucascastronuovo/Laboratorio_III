@@ -1,0 +1,13 @@
+CC=gcc-4.1
+
+CFLAGS = -Wall -O3 -std=gnu89 -pedantic-errors
+HEADERS = -I./
+
+all: clean p1
+
+clean:
+	rm -rf *o p1
+
+p1 : p1.c funciones.c semaforo.c clave.c memcomp.c funciones.h semaforo.h clave.h memcomp.h def_gen.h defmemsem.h
+	$(CC) -o p1 p1.c funciones.c semaforo.c clave.c memcomp.c $(CFLAGS) $(HEADERS)
+

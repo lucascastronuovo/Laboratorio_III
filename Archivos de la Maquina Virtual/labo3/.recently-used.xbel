@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/labo3/hola.c" added="2023-03-15T22:34:53Z" modified="2023-03-16T04:53:49Z" visited="2023-03-15T22:37:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" timestamp="1678942429" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/labo3/def.h" added="2023-03-15T23:35:36Z" modified="2023-03-16T00:28:08Z" visited="2023-03-15T23:38:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" timestamp="1678926488" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/labo3/funciones.c" added="2023-03-16T00:24:48Z" modified="2023-03-16T00:29:08Z" visited="2023-03-16T00:25:55Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" timestamp="1678926548" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/labo3/funciones.h" added="2023-03-16T00:27:03Z" modified="2023-03-16T00:56:40Z" visited="2023-03-16T00:27:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" timestamp="1678928200" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/labo3/laluca.c" added="2023-03-16T04:52:06Z" modified="2023-03-16T04:54:39Z" visited="2023-03-16T04:53:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" timestamp="1678942479" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/labo3/numlea.c" added="2023-03-22T16:10:58Z" modified="2023-03-22T16:10:58Z" visited="2023-03-22T16:10:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" timestamp="1679501458" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/labo3/Makefile" added="2023-03-22T16:24:37Z" modified="2023-03-22T16:35:17Z" visited="2023-03-22T16:24:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-makefile"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" timestamp="1679502917" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/labo3/tpar/producto.txt" added="2023-03-29T19:14:10Z" modified="2023-04-06T00:14:46Z" visited="2023-03-29T19:14:10Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Administrador de archivos" exec="&apos;gedit %U&apos;" timestamp="1680725568" count="4"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" timestamp="1680740086" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/labo3/gestiones.c" added="2023-04-06T00:14:15Z" modified="2023-04-06T00:14:15Z" visited="2023-04-06T00:14:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" timestamp="1680740055" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/labo3/probando2" added="2023-04-12T20:14:35Z" modified="2023-04-12T20:14:42Z" visited="2023-04-12T20:14:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Administrador de archivos" exec="&apos;gedit %U&apos;" timestamp="1681330481" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" timestamp="1681330482" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/labo3/prob" added="2023-04-12T20:34:49Z" modified="2023-04-12T20:34:56Z" visited="2023-04-12T20:34:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Administrador de archivos" exec="&apos;gedit %U&apos;" timestamp="1681331689" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" timestamp="1681331696" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/labo3/copia.tar.gz" added="2023-04-15T21:07:59Z" modified="2023-04-15T21:13:25Z" visited="2023-04-15T21:07:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Administrador de archivos" exec="&apos;file-roller %U&apos;" timestamp="1681593205" count="2"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" timestamp="1681593205" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/labo3/tpnumal_bkup.tar.gz" added="2023-04-15T21:13:53Z" modified="2023-04-15T21:13:53Z" visited="2023-04-15T21:13:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Administrador de archivos" exec="&apos;file-roller %U&apos;" timestamp="1681593233" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" timestamp="1681593233" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/labo3/simulacro1.tar.gz" added="2023-04-19T19:57:51Z" modified="2023-04-19T19:58:51Z" visited="2023-04-19T19:57:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Administrador de archivos" exec="&apos;file-roller %U&apos;" timestamp="1681934331" count="2"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" timestamp="1681934331" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/labo3/.fr-qwxyaW/simulacro_parcial1/paneles.txt" added="2023-04-19T19:58:23Z" modified="2023-04-19T19:58:23Z" visited="2023-04-19T19:58:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" timestamp="1681934303" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/USB%20DISK/simulacro1.tar.gz" added="2023-04-19T20:05:48Z" modified="2023-04-19T20:07:04Z" visited="2023-04-19T20:05:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Administrador de archivos" exec="&apos;file-roller %U&apos;" timestamp="1681934824" count="2"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" timestamp="1681934824" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/labo3/parcial1.tar.gz" added="2023-04-20T00:17:37Z" modified="2023-04-20T00:19:37Z" visited="2023-04-20T00:17:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Administrador de archivos" exec="&apos;file-roller %U&apos;" timestamp="1681949977" count="2"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" timestamp="1681949977" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/labo3/parcial1_lucascastronuovo.tar.gz" added="2023-04-20T00:25:55Z" modified="2023-04-20T00:25:55Z" visited="2023-04-20T00:25:55Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Administrador de archivos" exec="&apos;file-roller %U&apos;" timestamp="1681950355" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" timestamp="1681950355" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/labo3/Archivos%20c%20de%20cola%20de%20mensajes/Cola%20Mensajes%20Make/Cola%20Mensajes%20Make/funciones.h" added="2023-05-31T22:38:42Z" modified="2023-05-31T22:52:00Z" visited="2023-05-31T22:38:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Administrador de archivos" exec="&apos;gedit %U&apos;" timestamp="1685573314" count="3"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" timestamp="1685573520" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/labo3/Archivos%20c%20de%20cola%20de%20mensajes/Cola%20Mensajes%20Make/Cola%20Mensajes%20Make/funciones.c" added="2023-05-31T22:39:34Z" modified="2023-05-31T22:47:18Z" visited="2023-05-31T22:39:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Administrador de archivos" exec="&apos;gedit %U&apos;" timestamp="1685573238" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" timestamp="1685573238" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/labo3/Archivos%20c%20de%20cola%20de%20mensajes/Cola%20Mensajes%20Make/Cola%20Mensajes%20Make/definiciones%20.h" added="2023-05-31T22:41:16Z" modified="2023-05-31T22:51:54Z" visited="2023-05-31T22:44:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" timestamp="1685573514" count="3"/>
+          <bookmark:application name="Administrador de archivos" exec="&apos;gedit %U&apos;" timestamp="1685573514" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/labo3/Archivos%20c%20de%20cola%20de%20mensajes/Codigo/Codigo/Cola%20Mensajes%20Make/definiciones%20.h" added="2023-06-05T19:14:57Z" modified="2023-06-05T20:59:47Z" visited="2023-06-05T19:14:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Administrador de archivos" exec="&apos;gedit %U&apos;" timestamp="1685992611" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" timestamp="1685998787" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/labo3/.Trash/definiciones%20.h" added="2023-06-05T19:15:35Z" modified="2023-06-05T19:15:35Z" visited="2023-06-05T19:15:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Administrador de archivos" exec="&apos;gedit %U&apos;" timestamp="1685992535" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" timestamp="1685992535" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/labo3/Archivos%20c%20de%20cola%20de%20mensajes/Codigo/Codigo/COLAS/cola1.c" added="2023-06-05T20:51:53Z" modified="2023-06-06T01:27:51Z" visited="2023-06-05T20:51:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Administrador de archivos" exec="&apos;gedit %U&apos;" timestamp="1685998313" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" timestamp="1686014871" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/labo3/Archivos%20c%20de%20cola%20de%20mensajes/Codigo/Codigo/COLAS/cola2.c" added="2023-06-05T20:52:32Z" modified="2023-06-05T20:52:32Z" visited="2023-06-05T22:18:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" timestamp="1685998352" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/labo3/Archivos%20c%20de%20cola%20de%20mensajes/Codigo/Codigo/Cola%20Mensajes%20Make/repositor.c" added="2023-06-05T20:55:00Z" modified="2023-06-05T20:55:00Z" visited="2023-06-05T22:18:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" timestamp="1685998500" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/labo3/Archivos%20c%20de%20cola%20de%20mensajes/Codigo/Codigo/Cola%20Mensajes%20Make/supermercado.c" added="2023-06-05T20:55:00Z" modified="2023-06-05T20:55:00Z" visited="2023-06-05T22:18:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" timestamp="1685998500" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/labo3/Archivos%20c%20de%20cola%20de%20mensajes/Codigo/Codigo/Cola%20Mensajes%20Make/funciones.c" added="2023-06-05T20:55:16Z" modified="2023-06-05T20:55:16Z" visited="2023-06-05T22:18:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" timestamp="1685998516" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/labo3/tpmemcom/ej1/utiles.c" added="2023-06-05T21:34:12Z" modified="2023-06-05T21:34:12Z" visited="2023-06-05T22:18:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" timestamp="1686000852" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/labo3/tp_cola_mensajes/tp_cola_mensajes/colas.c" added="2023-06-05T22:28:44Z" modified="2023-06-05T22:28:45Z" visited="2023-06-05T22:28:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Administrador de archivos" exec="&apos;gedit %U&apos;" timestamp="1686004124" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" timestamp="1686004125" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/labo3/tp_cola_mensajes/tp_cola_mensajes/colas.h" added="2023-06-05T22:29:12Z" modified="2023-06-05T22:29:12Z" visited="2023-06-05T22:29:12Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Administrador de archivos" exec="&apos;gedit %U&apos;" timestamp="1686004152" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" timestamp="1686004152" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/labo3/tp_cola_mensajes/tp_cola_mensajes/definiciones.h" added="2023-06-05T22:29:21Z" modified="2023-06-05T22:29:21Z" visited="2023-06-06T00:18:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" timestamp="1686004161" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/labo3/tp_cola_mensajes/tp_cola_mensajes/clave.h" added="2023-06-05T22:30:14Z" modified="2023-06-05T22:30:14Z" visited="2023-06-06T00:18:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" timestamp="1686004214" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/labo3/Archivos%20c%20de%20cola%20de%20mensajes/Codigo/Codigo/funciones.c" added="2023-06-06T01:27:39Z" modified="2023-06-06T01:27:39Z" visited="2023-06-06T01:27:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Administrador de archivos" exec="&apos;gedit %U&apos;" timestamp="1686014859" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" timestamp="1686014859" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/USB%20DISK/Archivos%20c%20de%20hilos/BingoThreads.c" added="2023-06-06T19:10:09Z" modified="2023-06-06T19:10:09Z" visited="2023-06-06T19:10:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Administrador de archivos" exec="&apos;gedit %U&apos;" timestamp="1686078609" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" timestamp="1686078609" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/USB%20DISK/Archivos%20c%20de%20hilos/ComoRecibiryDevolverUnEnteroEnUnThread.txt" added="2023-06-06T19:11:09Z" modified="2023-06-06T19:11:09Z" visited="2023-06-06T19:11:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Administrador de archivos" exec="&apos;gedit %U&apos;" timestamp="1686078669" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" timestamp="1686078669" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/USB%20DISK/Archivos%20c%20de%20hilos/ejemplo_thread_mutex.c" added="2023-06-06T19:11:42Z" modified="2023-06-06T19:11:42Z" visited="2023-06-06T19:11:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Administrador de archivos" exec="&apos;gedit %U&apos;" timestamp="1686078702" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" timestamp="1686078702" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/USB%20DISK/Archivos%20c%20de%20hilos/tiempos.c" added="2023-06-06T19:11:52Z" modified="2023-06-06T19:11:52Z" visited="2023-06-06T19:11:52Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Administrador de archivos" exec="&apos;gedit %U&apos;" timestamp="1686078712" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" timestamp="1686078712" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/labo3/CodigoUtil/ejemploAleatoriosNoRepetitivos.c" added="2023-06-07T20:15:46Z" modified="2023-06-07T20:15:47Z" visited="2023-06-07T20:15:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Administrador de archivos" exec="&apos;gedit %U&apos;" timestamp="1686168946" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" timestamp="1686168947" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/labo3/parcial2_castronuovo_hormigaz.tar.gz" added="2023-06-08T00:50:32Z" modified="2023-06-08T00:50:32Z" visited="2023-06-08T00:50:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Administrador de archivos" exec="&apos;file-roller %U&apos;" timestamp="1686185432" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" timestamp="1686185432" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/labo3/parcial2v2_lucascastronuovo.tar.gz" added="2023-06-08T03:17:14Z" modified="2023-06-08T03:17:14Z" visited="2023-06-08T03:17:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Administrador de archivos" exec="&apos;file-roller %U&apos;" timestamp="1686194234" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" timestamp="1686194234" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/labo3/la_champions.tar.gz" added="2023-06-22T01:13:17Z" modified="2023-06-22T01:13:17Z" visited="2023-06-22T01:13:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Administrador de archivos" exec="&apos;file-roller %U&apos;" timestamp="1687396397" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" timestamp="1687396397" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/labo3/corre_parcial2.tar.gz" added="2023-06-22T01:13:50Z" modified="2023-06-22T01:13:51Z" visited="2023-06-22T01:13:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Administrador de archivos" exec="&apos;file-roller %U&apos;" timestamp="1687396430" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" timestamp="1687396431" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

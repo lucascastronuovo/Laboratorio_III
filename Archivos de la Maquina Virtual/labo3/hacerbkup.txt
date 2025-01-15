@@ -1,0 +1,1 @@
+tar czf parcial1.tar.gz parcial1

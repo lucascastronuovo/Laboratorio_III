@@ -1,0 +1,16 @@
+CC=gcc-4.1
+
+CFLAGS = -Wall -O3 -std=gnu89 -pedantic-errors -pthread
+HEADERS = -I./
+
+all: clean hormiga_reina hormigas
+
+clean:
+	rm -rf *o hormiga_reina hormigas
+
+hormiga_reina : hormiga_reina.c memcomp.c global.c clave.c threads.c colas.c funciones.c memcomp.h global.h clave.h threads.h colas.h funciones.h definiciones.h 
+	$(CC) -o hormiga_reina hormiga_reina.c memcomp.c global.c clave.c threads.c colas.c funciones.c $(CFLAGS) $(HEADERS)
+
+hormigas : hormigas.c memcomp.c global.c clave.c threads.c colas.c funciones.c memcomp.h global.h clave.h threads.h colas.h funciones.h definiciones.h 
+	$(CC) -o hormigas hormigas.c memcomp.c global.c clave.c threads.c colas.c funciones.c $(CFLAGS) $(HEADERS)
+

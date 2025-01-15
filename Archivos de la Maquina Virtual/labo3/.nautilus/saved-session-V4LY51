@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<session>
+  <history>
+    <bookmark name="USB DISK" icon="gnome-fs-directory" uri="file:///media/USB%20DISK"/>
+    <bookmark name="EjercicioResuelto" icon="gnome-fs-directory" uri="file:///media/USB%20DISK/Archivos%20de%20memoria%20compartida/EjercicioResuelto"/>
+    <bookmark name="Archivos de memoria compartida" icon="gnome-fs-directory" uri="file:///media/USB%20DISK/Archivos%20de%20memoria%20compartida"/>
+    <bookmark name="Archivos c de cola de mensajes" icon="gnome-fs-directory" uri="file:///media/USB%20DISK/Archivos%20c%20de%20cola%20de%20mensajes"/>
+    <bookmark name="labo3" icon="user-home" uri="file:///home/labo3"/>
+    <bookmark name="ejercicio_resuelto" icon="gnome-fs-directory" uri="file:///home/labo3/pruebamem/ejercicio_resuelto"/>
+    <bookmark name="pruebamem" icon="gnome-fs-directory" uri="file:///home/labo3/pruebamem"/>
+    <bookmark name="/" icon="gnome-fs-directory" uri="file:///"/>
+  </history>
+</session>

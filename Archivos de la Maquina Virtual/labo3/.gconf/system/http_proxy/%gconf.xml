@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<gconf>
+        <entry name="ignore_hosts" mtime="1659006832" type="list" ltype="string">
+                <li type="string">
+                        <stringvalue>localhost</stringvalue>
+                </li>
+                <li type="string">
+                        <stringvalue>127.0.0.0/8</stringvalue>
+                </li>
+                <li type="string">
+                        <stringvalue>*.local</stringvalue>
+                </li>
+                <li type="string">
+                        <stringvalue>*.up; *palermo.edu</stringvalue>
+                </li>
+        </entry>
+        <entry name="host" mtime="1659006791" type="string">
+                <stringvalue>proxy.up</stringvalue>
+        </entry>
+        <entry name="use_same_proxy" mtime="1659006782" type="bool" value="true">
+        </entry>
+        <entry name="use_http_proxy" mtime="1659007751" type="bool" value="true">
+        </entry>
+</gconf>

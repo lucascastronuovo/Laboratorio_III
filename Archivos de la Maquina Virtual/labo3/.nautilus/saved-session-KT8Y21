@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<session>
+  <history>
+    <bookmark name="labo3" icon="user-home" uri="file:///home/labo3"/>
+    <bookmark name="tpnumal" icon="gnome-fs-directory" uri="file:///home/labo3/tpnumal"/>
+    <bookmark name="Documentos" icon="gnome-fs-directory" uri="file:///home/labo3/Documentos"/>
+    <bookmark name="tpar" icon="gnome-fs-directory" uri="file:///home/labo3/tpar"/>
+    <bookmark name="tpar_bkup" icon="gnome-fs-directory" uri="file:///home/labo3/tpar_bkup"/>
+  </history>
+</session>

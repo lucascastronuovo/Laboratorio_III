@@ -1,0 +1,14 @@
+CC=gcc-4.1
+
+CFLAGS = -Wall -O3 -std=gnu89 -pedantic-errors -pthread
+HEADERS = -I./
+
+all: clean p1
+
+clean:
+	rm -rf *o p1
+
+p1 : p1.c global.c global.h
+	$(CC) -o p1 p1.c global.c $(CFLAGS) $(HEADERS)
+
+

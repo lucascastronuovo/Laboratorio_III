@@ -1,0 +1,14 @@
+#include "global.h"
+
+
+int* inicializado;
+
+
+struct tipo_juego{
+
+	char nombre_jugador[100];
+	int numero_pensado;
+	int estado_acierto;
+
+};
+juego *memoria=0;

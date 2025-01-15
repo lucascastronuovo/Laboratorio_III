@@ -1,0 +1,16 @@
+CC=gcc-4.1
+
+CFLAGS = -Wall -O3 -std=gnu89 -pedantic-errors
+HEADERS = -I./
+
+all: clean mcdonalds consumidor
+
+clean:
+	rm -rf *o mcdonalds consumidor
+
+mcdonalds : mcdonalds.c funciones.c colas.c global.c clave.c memcomp.c utiles.c funciones.h colas.h global.h clave.h memcomp.h utiles.h definiciones.h
+	$(CC) -o mcdonalds mcdonalds.c funciones.c colas.c global.c clave.c memcomp.c utiles.c $(CFLAGS) $(HEADERS)
+
+consumidor : consumidor.c funciones.c colas.c global.c clave.c memcomp.c utiles.c funciones.h colas.h global.h clave.h memcomp.h utiles.h definiciones.h 
+	$(CC) -o consumidor consumidor.c funciones.c colas.c global.c clave.c memcomp.c utiles.c $(CFLAGS) $(HEADERS)
+

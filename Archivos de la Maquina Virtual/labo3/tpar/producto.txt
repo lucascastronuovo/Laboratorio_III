@@ -1,0 +1,10 @@
+hamburguesa-01
+pizza-02
+milanesa-03
+empanada-04
+manzana-05
+pera-06
+fideos-07
+carne-08
+pescado-09
+lechuga-10

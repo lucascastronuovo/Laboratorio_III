@@ -1,0 +1,12 @@
+#include <pthread.h>
+
+pthread_mutex_t mutex;
+
+
+struct tipo_mensajes
+{
+	long	long_dest; 						
+	int 	int_rte;						
+	int 	int_evento;						
+	char 	char_mensaje[1024];	
+};

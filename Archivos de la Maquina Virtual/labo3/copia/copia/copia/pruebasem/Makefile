@@ -1,0 +1,15 @@
+CC=gcc-4.1
+
+CFLAGS = -Wall -O3 -std=gnu89 -pedantic-errors
+HEADERS = -I./
+
+all: clean productor consumidor
+
+clean:
+	rm -rf *o productor consumidor
+
+productor : Productor-ConSemaforos.c
+	$(CC) -o Productor-ConSemaforos.c $(CFLAGS) $(HEADERS)
+
+consumidor : Consumidor-ConSemaforos.c
+	$(CC) -o Consumidor-ConSemaforos.c $(CFLAGS) $(HEADERS) 

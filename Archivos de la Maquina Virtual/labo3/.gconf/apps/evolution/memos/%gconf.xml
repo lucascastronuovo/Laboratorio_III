@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<gconf>
+        <entry name="sources" mtime="1681268461" type="list" ltype="string">
+                <li type="string">
+                        <stringvalue>&lt;?xml version=&quot;1.0&quot;?&gt;
+&lt;group uid=&quot;1681268460.4985.2@labo3pc&quot; name=&quot;En este equipo&quot; base_uri=&quot;file:///home/labo3/.evolution/memos/local&quot; readonly=&quot;no&quot;&gt;&lt;source uid=&quot;1681268460.4985.3@labo3pc&quot; name=&quot;Privado&quot; relative_uri=&quot;system&quot; color_spec=&quot;#BECEDD&quot;/&gt;&lt;/group&gt;
+</stringvalue>
+                </li>
+                <li type="string">
+                        <stringvalue>&lt;?xml version=&quot;1.0&quot;?&gt;
+&lt;group uid=&quot;1681268460.4985.4@labo3pc&quot; name=&quot;En la web&quot; base_uri=&quot;webcal://&quot; readonly=&quot;no&quot;/&gt;
+</stringvalue>
+                </li>
+        </entry>
+</gconf>

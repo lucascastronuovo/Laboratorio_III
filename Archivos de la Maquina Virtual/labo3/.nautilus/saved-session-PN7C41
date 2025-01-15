@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<session>
+  <history>
+    <bookmark name="pruebamem" icon="gnome-fs-directory" uri="file:///home/labo3/pruebamem"/>
+    <bookmark name="labo3" icon="user-home" uri="file:///home/labo3"/>
+    <bookmark name="Documentos" icon="gnome-fs-directory" uri="file:///home/labo3/Documentos"/>
+    <bookmark name="USB DISK" icon="gnome-fs-directory" uri="file:///media/USB%20DISK"/>
+    <bookmark name="media" icon="gnome-fs-directory" uri="file:///media"/>
+    <bookmark name="/" icon="gnome-fs-directory" uri="file:///"/>
+    <bookmark name="Archivos de memoria compartida" icon="gnome-fs-directory" uri="file:///media/USB%20DISK/Archivos%20de%20memoria%20compartida"/>
+  </history>
+</session>

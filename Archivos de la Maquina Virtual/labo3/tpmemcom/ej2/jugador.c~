@@ -1,0 +1,93 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include "semaforo.h"
+#include "memcomp.h"
+#include "funciones.h"
+#include "def_gen.h"
+#include "defmemsem.h"
+#include <string.h>
+#include <time.h>
+#include <unistd.h>
+#include <sys/shm.h>
+
+
+
+int main(int argc, char *argv[]){
+
+	juego *memoria = 0;
+	char nombre_jugador[LARGO];
+	int id_memoria;	
+	int id_semaforo;
+	int n,m,i,stop,num;
+	int vec[50];
+	int cant_intentos=0;
+	int acierto=0;
+
+	
+
+	srand(time(NULL));
+
+	id_semaforo = crearSemaforo();
+	
+	memoria = (juego*)creo_memoria(sizeof(juego), &id_memoria, CLAVE_BASE);
+	m=1;
+	n=0;	
+	
+	printf("Nombre jugador\n");
+	scanf("%s",&nombre_jugador[0]);
+
+	while(acierto==0){
+			
+
+		esperarSemaforo(id_semaforo);
+	
+		strcpy(&memoria[1].nombre_jugador[0], &nombre_jugador[0]);
+
+
+		/*printf("%s\n", &memoria[1].nombre_jugador[0]);*/
+
+
+		if(memoria[1].numero_pensado==0 && memoria[1].estado_acierto==0){
+
+
+
+		
+		
+			do{
+				stop=0;
+				num = obtenerNumeroAleatorio(1,99);
+				for (i=0;(i<m && stop==0 && n!=0);i++){
+					if (vec[i]==num)
+						stop=1;	
+				}
+			}while(stop==1);
+		
+
+		
+			vec[n]=num;
+			memoria[1].numero_pensado = vec[n];
+			m++;
+			n++;
+		
+
+		}
+
+		else if(memoria[1].numero_pensado!=0 && memoria[1].estado_acierto==1){
+
+			
+			printf("Cantidad de Intentos: %d\n", cant_intentos);
+			acierto=1;
+		}
+		cant_intentos++;
+		levantarSemaforo(id_semaforo);
+		usleep(100000);
+	}
+/*	Terminada de usar la memoria compartida, la liberamos.*/
+	
+	shmdt ((char *)memoria);
+	shmctl (id_memoria, IPC_RMID, (struct shmid_ds *)NULL);
+
+
+	return 0;
+
+}

@@ -1,0 +1,14 @@
+#ifndef _GLOBAL_H
+#define _GLOBAL_H
+
+
+
+typedef struct tipo_juego juego;
+
+extern juego *memoria;
+
+extern int* inicializado;
+
+
+
+#endif

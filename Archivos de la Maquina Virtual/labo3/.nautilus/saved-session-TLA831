@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<session>
+  <history>
+    <bookmark name="USB DISK" icon="gnome-fs-directory" uri="file:///media/USB%20DISK"/>
+    <bookmark name="labo3" icon="user-home" uri="file:///home/labo3"/>
+    <bookmark name="Documentos" icon="gnome-fs-directory" uri="file:///home/labo3/Documentos"/>
+  </history>
+  <window type="navigation" geometry="790x521+0+25" location="file:///home/labo3"/>
+</session>

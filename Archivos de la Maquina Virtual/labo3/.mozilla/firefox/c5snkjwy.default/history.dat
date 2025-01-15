@@ -1,0 +1,24 @@
+// <!-- <mdb:mork:z v="1.4"/> -->
+< <(a=c)> // (f=iso-8859-1)
+  (8A=Typed)(8B=LastPageVisited)(8C=ByteOrder)
+  (80=ns:history:db:row:scope:history:all)
+  (81=ns:history:db:table:kind:history)(82=URL)(83=Referrer)
+  (84=LastVisitDate)(85=FirstVisitDate)(86=VisitCount)(87=Name)
+  (88=Hostname)(89=Hidden)>
+
+<(80=LE)(81=file:///usr/share/ubuntu-artwork/home/index.html)(C0
+    =1686702476851363)(82=1652045473338371)(83=)(84
+    =W$00e$00l$00c$00o$00m$00e$00 $00t$00o$00 $00U$00b$00u$00n$00t$00u$00 $007\
+$00.$001$000$00!$00)(C1=7)>
+{1:^80 {(k^81:c)(s=9)[1(^8C=LE)]} 
+  [2(^82^81)(^84^C0)(^85^82)(^88=)(^87^84)(^86=7)]}
+[E:^80]
+[F:^80]
+[10:^80]
+[11:^80]
+[8:^80]
+[9:^80]
+[A:^80]
+[B:^80]
+[C:^80]
+[D:^80]

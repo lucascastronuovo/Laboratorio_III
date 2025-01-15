@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<gconf>
+        <entry name="rate" mtime="1652038120" type="int" value="60">
+        </entry>
+        <entry name="resolution" mtime="1652038120" type="string">
+                <stringvalue>800x600</stringvalue>
+        </entry>
+</gconf>

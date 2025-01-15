@@ -1,0 +1,16 @@
+#ifndef _DEF_H
+#define _DEF_H
+
+#define LARGO_NOMBRE 51
+
+typedef struct tipo_juego juego;
+
+struct tipo_juego{
+
+	char nombre_jugador[LARGO_NOMBRE];
+	int numero_pensado;
+	int estado_acierto;
+
+};
+
+#endif

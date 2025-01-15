@@ -1,0 +1,15 @@
+CC=gcc-4.1
+
+CFLAGS = -Wall -O3 -std=gnu89 -pedantic-errors
+HEADERS = -I./
+
+all: clean tesorero cajeros 
+
+clean:
+	rm -rf *o tesorero cajeros
+
+tesorero : tesorero.c utiles.c utiles.h
+	$(CC) -o tesorero tesorero.c utiles.c $(CFLAGS) $(HEADERS)
+
+cajeros : cajeros.c utiles.c utiles.h
+	$(CC) -o cajeros cajeros.c $ utiles.c $(CFLAGS) $(HEADERS))

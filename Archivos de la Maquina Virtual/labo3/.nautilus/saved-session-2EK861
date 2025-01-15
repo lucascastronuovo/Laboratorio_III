@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<session>
+  <history>
+    <bookmark name="v1" icon="gnome-fs-directory" uri="file:///home/labo3/corre_parcial2/v1"/>
+    <bookmark name="corre_parcial2" icon="gnome-fs-directory" uri="file:///home/labo3/corre_parcial2"/>
+    <bookmark name="Parcial_II" icon="gnome-fs-directory" uri="file:///home/labo3/segundo_parcial_compa%C3%B1ero/Parcial_II"/>
+    <bookmark name="segundo_parcial_compa&#xF1;ero" icon="gnome-fs-directory" uri="file:///home/labo3/segundo_parcial_compa%C3%B1ero"/>
+    <bookmark name="USB DISK" icon="gnome-fs-directory" uri="file:///media/USB%20DISK"/>
+  </history>
+</session>

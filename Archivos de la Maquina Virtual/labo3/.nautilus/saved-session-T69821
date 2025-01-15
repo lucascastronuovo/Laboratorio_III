@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<session>
+  <history>
+    <bookmark name="USB DISK" icon="gnome-fs-directory" uri="file:///media/USB%20DISK"/>
+    <bookmark name="TP Sem&#xE1;foros" icon="gnome-fs-directory" uri="file:///media/USB%20DISK/TP%20Sem%C3%A1foros"/>
+    <bookmark name="semcomp" icon="gnome-fs-directory" uri="file:///home/labo3/pruebasem/semcomp"/>
+    <bookmark name="pruebasem" icon="gnome-fs-directory" uri="file:///home/labo3/pruebasem"/>
+    <bookmark name="labo3" icon="user-home" uri="file:///home/labo3"/>
+    <bookmark name="Documentos" icon="gnome-fs-directory" uri="file:///home/labo3/Documentos"/>
+  </history>
+</session>

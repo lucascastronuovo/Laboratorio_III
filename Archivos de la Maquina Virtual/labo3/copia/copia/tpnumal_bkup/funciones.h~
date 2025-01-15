@@ -1,0 +1,8 @@
+#ifndef _FUNCIONES_H
+#define _FUNCIONES_H
+
+#include "def-h"
+
+int obtenerNumeroAleatorio(int desde, int hasta);
+
+#endif

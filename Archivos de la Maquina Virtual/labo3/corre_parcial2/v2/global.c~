@@ -1,0 +1,16 @@
+#include <pthread.h>
+#include "global.h"
+
+insumos *m_insumos;
+
+estados *m_estados;
+
+hormigas *h_hormigas;
+
+Destinos destinos;
+
+Eventos eventos;
+
+pthread_mutex_t mutex;
+
+int* inicializado;

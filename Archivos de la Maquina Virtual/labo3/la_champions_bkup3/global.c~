@@ -1,0 +1,14 @@
+#include <pthread.h>
+#include "global.h"
+
+resultado *m_resultado;
+
+pateador *pateadores;
+
+Destinos destinos;
+
+Eventos eventos;
+
+pthread_mutex_t mutex;
+
+int* inicializado;

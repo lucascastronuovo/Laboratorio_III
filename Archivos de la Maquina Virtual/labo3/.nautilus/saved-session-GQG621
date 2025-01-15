@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<session>
+  <history>
+    <bookmark name="Examples" icon="gnome-fs-directory" uri="file:///home/labo3/Examples"/>
+    <bookmark name="copia" icon="gnome-fs-directory" uri="file:///home/labo3/copia"/>
+    <bookmark name="labo3" icon="user-home" uri="file:///home/labo3"/>
+    <bookmark name="Documentos" icon="gnome-fs-directory" uri="file:///home/labo3/Documentos"/>
+    <bookmark name="USB DISK" icon="gnome-fs-directory" uri="file:///media/USB%20DISK"/>
+    <bookmark name="backup tp final laboratorio 1" icon="gnome-fs-directory" uri="file:///media/USB%20DISK/backup%20tp%20final%20laboratorio%201"/>
+    <bookmark name="simulacro_parcial1" icon="gnome-fs-directory" uri="file:///home/labo3/simulacro_parcial1"/>
+    <bookmark name="/" icon="gnome-fs-directory" uri="file:///"/>
+    <bookmark name="headers" icon="gnome-fs-directory" uri="file:///home/labo3/headers"/>
+  </history>
+</session>

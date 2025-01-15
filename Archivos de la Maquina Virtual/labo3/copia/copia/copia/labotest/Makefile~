@@ -1,0 +1,11 @@
+CC=gcc-4.1
+
+CFLAGS = -Wall -O4 -ansi -pedantic-errors
+HEADERS = -I./
+#all : main
+
+main: main.c main.h
+	$(CC) $(CFLAGS) -Wall -o main  main.c $(HEADERS)
+
+cleam: 
+	rm -rf *o main

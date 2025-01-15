@@ -1,0 +1,16 @@
+#include "stdlib.h"
+#include "stdio.h"
+#include "main.h"
+
+int main(int incant,char *szarg[])
+{
+	int x=0;
+	x = atoi(szarg[2]);
+	printf("Estudiante %s Edad %d Primer Letra %c ", szarg[1], x,szarg[1][0]);
+	/*casa casita;*/
+
+	return 0;
+	
+}
+
+

@@ -1,0 +1,10 @@
+pera-01
+hamburguesa-02
+fideos-03
+manzana-04
+pescado-05
+pizza-06
+pollo-07
+carne-08
+limón-09
+calabaza-10

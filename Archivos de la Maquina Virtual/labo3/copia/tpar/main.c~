@@ -1,0 +1,18 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include "menu_archivos.h"
+
+int main(int argc, char *argv[]){
+	
+	
+	
+
+	abrirMenu();
+	
+	
+	
+	return 0;
+
+
+}

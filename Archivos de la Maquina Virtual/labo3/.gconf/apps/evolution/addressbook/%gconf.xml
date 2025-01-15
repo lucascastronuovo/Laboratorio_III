@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<gconf>
+        <entry name="sources" mtime="1681268461" type="list" ltype="string">
+                <li type="string">
+                        <stringvalue>&lt;?xml version=&quot;1.0&quot;?&gt;
+&lt;group uid=&quot;1681268461.4985.17@labo3pc&quot; name=&quot;En este equipo&quot; base_uri=&quot;file:///home/labo3/.evolution/addressbook/local&quot; readonly=&quot;no&quot;&gt;&lt;source uid=&quot;1681268461.4985.18@labo3pc&quot; name=&quot;Privado&quot; relative_uri=&quot;system&quot;&gt;&lt;properties&gt;&lt;property name=&quot;completion&quot; value=&quot;true&quot;/&gt;&lt;/properties&gt;&lt;/source&gt;&lt;/group&gt;
+</stringvalue>
+                </li>
+                <li type="string">
+                        <stringvalue>&lt;?xml version=&quot;1.0&quot;?&gt;
+&lt;group uid=&quot;1681268461.4985.19@labo3pc&quot; name=&quot;En servidores LDAP&quot; base_uri=&quot;ldap://&quot; readonly=&quot;no&quot;/&gt;
+</stringvalue>
+                </li>
+        </entry>
+</gconf>

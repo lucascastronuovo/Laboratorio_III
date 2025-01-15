@@ -1,0 +1,57 @@
+Generated File. Do not edit.
+
+[HEADER]
+Version:0.08:$
+
+[PLUGINS]
+/usr/lib/totem/libtotem-narrowspace-plugin.so:$
+:$
+1191582967000:1:1:$
+The <a href="http://www.gnome.org/projects/totem/">Totem</a> 2.20.0 plugin handles video and audio streams.:$
+QuickTime Plug-in 7.2.0:$
+5
+0:video/quicktime:vídeo QT:mov:$
+1:video/mp4:vídeo MPEG-4:mp4:$
+2:image/x-macpaint:imagen en mapa de bits de MacPaint:pntg:$
+3:image/x-quicktime:dibujo de Macintosh Quickdraw/PICT:pict, pict1, pict2:$
+4:video/x-m4v:vídeo MPEG-4:m4v:$
+/usr/lib/totem/libtotem-mully-plugin.so:$
+:$
+1191582967000:1:1:$
+The <a href="http://www.gnome.org/projects/totem/">Totem</a> 2.20.0 plugin handles video and audio streams.:$
+DivX® Web Player:$
+1
+0:video/divx:vídeo AVI:divx:$
+/usr/lib/totem/libtotem-gmp-plugin.so:$
+:$
+1191582967000:1:1:$
+The <a href="http://www.gnome.org/projects/totem/">Totem</a> 2.20.0 plugin handles video and audio streams.:$
+Windows Media Player Plug-in 10 (compatible; Totem):$
+10
+0:application/x-mplayer2:vídeo AVI:avi, wma, wmv:$
+1:video/x-ms-asf-plugin:vídeo ASF:asf, wmv:$
+2:video/x-msvideo:vídeo AVI:asf, wmv:$
+3:video/x-ms-asf:vídeo ASF:asf:$
+4:video/x-ms-wmv:vídeo WMV:wmv:$
+5:video/x-wmv:vídeo WMV:wmv:$
+6:video/x-ms-wvx:lista de reproducción:wmv:$
+7:video/x-ms-wm:vídeo ASF:wmv:$
+8:application/x-ms-wms:vídeo WMV:wms:$
+9:application/asx:lista de reproducción:asx:$
+/usr/lib/totem/libtotem-basic-plugin.so:$
+:$
+1191582967000:1:1:$
+The <a href="http://www.gnome.org/projects/totem/">Totem</a> 2.20.0 plugin handles video and audio streams.:$
+Totem Web Browser Plugin 2.20.0:$
+11
+0:application/ogg:multimedia Ogg:ogg:$
+1:audio/ogg:Ogg Audio:ogg:$
+2:audio/x-ogg:Ogg Audio:ogg:$
+3:video/ogg:Ogg Video:ogg:$
+4:video/x-ogg:Ogg Video:ogg:$
+5:video/mpeg:vídeo MPEG:mpg, mpeg, mpe:$
+6:audio/wav:audio WAV:wav:$
+7:audio/x-wav:audio WAV:wav:$
+8:audio/mpeg:audio MP3:mp3:$
+9:application/x-nsv-vp3-mp3:vídeo NSV:nsv:$
+10:video/flv:vídeo Flash:flv:$

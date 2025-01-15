@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<gconf>
+        <entry name="sources" mtime="1681268461" type="list" ltype="string">
+                <li type="string">
+                        <stringvalue>&lt;?xml version=&quot;1.0&quot;?&gt;
+&lt;group uid=&quot;1681268460.4985.0@labo3pc&quot; name=&quot;CalDAV&quot; base_uri=&quot;caldav://&quot; readonly=&quot;no&quot;/&gt;
+</stringvalue>
+                </li>
+                <li type="string">
+                        <stringvalue>&lt;?xml version=&quot;1.0&quot;?&gt;
+&lt;group uid=&quot;1681268461.4985.8@labo3pc&quot; name=&quot;En este equipo&quot; base_uri=&quot;file:///home/labo3/.evolution/calendar/local&quot; readonly=&quot;no&quot;&gt;&lt;source uid=&quot;1681268461.4985.9@labo3pc&quot; name=&quot;Privado&quot; relative_uri=&quot;system&quot; color_spec=&quot;#BECEDD&quot;/&gt;&lt;/group&gt;
+</stringvalue>
+                </li>
+                <li type="string">
+                        <stringvalue>&lt;?xml version=&quot;1.0&quot;?&gt;
+&lt;group uid=&quot;1681268461.4985.10@labo3pc&quot; name=&quot;En la web&quot; base_uri=&quot;webcal://&quot; readonly=&quot;no&quot;/&gt;
+</stringvalue>
+                </li>
+                <li type="string">
+                        <stringvalue>&lt;?xml version=&quot;1.0&quot;?&gt;
+&lt;group uid=&quot;1681268461.4985.11@labo3pc&quot; name=&quot;Contactos&quot; base_uri=&quot;contacts://&quot; readonly=&quot;no&quot;&gt;&lt;properties&gt;&lt;property name=&quot;create_source&quot; value=&quot;no&quot;/&gt;&lt;/properties&gt;&lt;source uid=&quot;1681268461.4985.12@labo3pc&quot; name=&quot;Cumplea&amp;#xF1;os y aniversarios&quot; relative_uri=&quot;/&quot; color_spec=&quot;#DDBECE&quot;&gt;&lt;properties&gt;&lt;property name=&quot;delete&quot; value=&quot;no&quot;/&gt;&lt;/properties&gt;&lt;/source&gt;&lt;/group&gt;
+</stringvalue>
+                </li>
+                <li type="string">
+                        <stringvalue>&lt;?xml version=&quot;1.0&quot;?&gt;
+&lt;group uid=&quot;1681268461.4985.13@labo3pc&quot; name=&quot;Meteorolog&amp;#xED;a&quot; base_uri=&quot;weather://&quot; readonly=&quot;no&quot;/&gt;
+</stringvalue>
+                </li>
+        </entry>
+</gconf>

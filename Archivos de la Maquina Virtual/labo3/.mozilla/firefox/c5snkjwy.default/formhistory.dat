@@ -1,0 +1,11 @@
+// <!-- <mdb:mork:z v="1.4"/> -->
+< <(a=c)> // (f=iso-8859-1)
+  (80=ns:formhistory:db:row:scope:formhistory:all)
+  (81=ns:formhistory:db:table:kind:formhistory)(82=Value)(83=Name)
+  (84=ByteOrder)>
+
+<(80=llll)(81=s$00e$00a$00r$00c$00h$00b$00a$00r$00-$00h$00i$00s$00t$00o$00r$00\
+y$00)(82=w$00w$00w$00.$00s$00a$00n$00f$00o$00u$00n$00d$00r$00y$00.$00c$00o$00m\
+$00)>
+{1:^80 {(k^81:c)(s=9)[1(^84^80)]} 
+  [2(^83^81)(^82^82)]}
